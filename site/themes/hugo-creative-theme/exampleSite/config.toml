@@ -1,6 +1,6 @@
-baseurl = "https://michaellunzer.com/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Michael Lunzer's Website"
+title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -20,16 +20,16 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Michael Lunzer"
-	description = "Personal Website"
+	name = "Your name"
+	description = "Your description"
 
 	# The path must be relative to the static folder
-	favicon = "treeemoji.png"
+	favicon = "favicon.ico"
 
 
 	# Navigation
 	[params.navigation]
-		brand = "Michael Lunzer"
+		brand = "Hugo Creative Theme"
 
 		[params.navigation.links]
 			about     = "About"
@@ -41,8 +41,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Michael Lunzer"
-		subtitle   = "Customer Success Manager based in San Francisco -- currently looking for new opportunities"
+		slogan     = "Your awesome slogan"
+		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
 		buttonText = "Find out more"
 
 
@@ -96,9 +96,9 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Give me a call or send me an email and I'll get back to you as soon as possible!"
-		phone = "650 861-0474"
-		email = "michaellunzer@gmail.com"
+		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		phone = "123-456-6789"
+		email = "feedback@startbootstrap.com"
 
 	# Google Maps section
 	# [params.location]
